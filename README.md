@@ -4,7 +4,7 @@
 A content-based movie recommendation system built using metadata from the TMDB 5000 dataset.  
 It uses NLP techniques (Bag-of-Words + Cosine Similarity) to recommend similar movies based on overview, genre, cast, and keywords.
 
-🌐 **Live Demo**: [zentise-movie-recommendation-system.streamlit.app](https://zentise-movie-recommendation-system.streamlit.app/)
+🌐 **Live Demo**: [streamlit.app](https://zentise-movie-recommendation-system.streamlit.app/)
 
 ---
 
