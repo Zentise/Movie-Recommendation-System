@@ -42,6 +42,7 @@ git clone https://github.com/Zentise/Movie-Recommendation-System.git
 cd Movie-Recommendation-System
 ```
 
+
 2. Install requirements:
 ```bash
 pip install -r requirements.txt
