@@ -53,6 +53,7 @@ def load_data():
 # Load processed data
 movies_df, similarity = load_data()
 
+
 # -------- Streamlit UI --------
 st.title("🎬 Movie Recommender System")
 st.write("Get 5 similar movie recommendations based on content.")
