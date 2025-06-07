@@ -69,5 +69,5 @@ if st.button("Recommend"):
     st.subheader("Top 5 Recommendations:")
     for i in sorted_movies:
         st.write(f"🎥 {movies_df.iloc[i[0]]['title']}")
-        st.write(f"Similarity Score: {i[1]:.2f}")
-        
+        score = i[1]
+        st.write(f"   Similarity Score: {score*200:.2f}%")
