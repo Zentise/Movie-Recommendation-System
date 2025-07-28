@@ -4,6 +4,7 @@ import ast
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+
 # -------- Function to preprocess data and calculate similarity --------
 @st.cache_data
 def load_data():
