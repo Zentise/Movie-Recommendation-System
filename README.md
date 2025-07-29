@@ -61,7 +61,10 @@ streamlit run streamlit_app.py
 ![Movie Recommender Screenshot](image.png)
 
 ---
-
+## Todo
+Upgrade the dataset with Indian movies dataset
+Filter by language 
+---
 ## ✍️ Author
 
 **Shrijith S Menon**  
